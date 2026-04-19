@@ -5,6 +5,7 @@ A chatbot built using LLMs with RAG and context-aware responses.
 git clone https://github.com/Pradeep123-abc/chatbot-LLM.git
 ```
 
+### Step 1- Create a conda environment
 ```bash
 conda create -n medibot python=3.10 -y
 ```
